@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gorram
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning .NET Frameworks
 
 
 <!---
