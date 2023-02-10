@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gorram
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning .NET Frameworks
+- 👋 Hi, I’m Gorram and i'm a computer science student(P-TECH Student)
+- 👀 I’m interested in AI and ML
+- 🌱 In my free time i try to start some personel project to develop my skills
 
 
 <!---
