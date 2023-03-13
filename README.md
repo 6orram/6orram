@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gorram and i'm a computer science student(P-TECH Student)
-- 👀 I’m interested in AI and ML
+- 👋 Hi, I’m Gorram and i am a computer science student(P-TECH Student)
+- 👀 I am interested in AI and ML
 - 🌱 In my free time i try to start some personel project to develop my skills
-- 🎁 some time i do new things like develop games or design some game assets or doing some code challenge...
+- 🎁 some times i do new things like develop programes or starting new courses or doing some code challenge...
 
 
 <!---
