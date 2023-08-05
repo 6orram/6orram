@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN frameworks, Bash scripting and Networking**
 
-- 👨‍💻 All of my projects are available at [https://gorram.pythonanywhere.com/](https://gorram.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://gorram.pythonanywhere.com/](https://gorram.netlify.app/)
 
 - 💬 Ask me about **Anything :>**
 
