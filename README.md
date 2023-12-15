@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-comerce Web Application**
 
-- 🌱 I’m currently learning **NodeJs, NextJs And Linux Tools**
+- 🌱 I’m currently learning **NextJs, Electromechanics basics And Linux Tools**
 
 - 👨‍💻 All of my projects are available at [https://gorram.netlify.app/](https://gorram.netlify.app/)
 
