@@ -21,9 +21,5 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6orram&" alt="6orram" />
-</div>
-
 
 
