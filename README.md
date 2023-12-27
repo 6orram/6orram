@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6orram&label=Profile%20views&color=0e75b6&style=flat" alt="6orram" /> </p>
 
-- 🔭 I’m currently working on **E-comerce Web Application**
+- 🔭 I’m currently working on **Interior Design Website**
 
 - 🌱 I’m currently learning **NextJs, Electromechanics basics And Linux Tools**
 
