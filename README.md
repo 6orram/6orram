@@ -13,6 +13,10 @@
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=6orram&show_icons=true&locale=en" alt="6orram" />
   </div>
+
+  <div align="flex 1;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6orram&" alt="6orram" />
+</div>
 </div>
 
 <br>
