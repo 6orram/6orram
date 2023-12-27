@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="https://media.giphy.com/media/uES0oXcxs0TVGE79Mu/giphy.gif" alt="Your GIF" style="width: 100%; height: 100%; object-fit: cover;">
+<div style="display: flex; justify-content: center; align-items: center; height: 150px;">
+  <img src="https://media.giphy.com/media/uES0oXcxs0TVGE79Mu/giphy.gif" alt="Your GIF" style="max-width: 100%; max-height: 100%; object-fit: contain;">
 </div>
 > Never Show Weakness
 
