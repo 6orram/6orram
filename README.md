@@ -1,5 +1,6 @@
-<p align="center"><img src="https://media.giphy.com/media/uES0oXcxs0TVGE79Mu/giphy.gif"></p>
-
+<div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="https://media.giphy.com/media/uES0oXcxs0TVGE79Mu/giphy.gif" alt="Your GIF" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 > Never Show Weakness
 
 <h3 align="left">Languages and Tools:</h3>
