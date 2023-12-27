@@ -1,4 +1,6 @@
-![Banner](Banner1.png)
+![Banner](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ef7580e3-a188-4ab5-957d-ff7647475e69/dgi2vn2-61c884c3-fb5c-48ec-bbd2-54df06516f2a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmNzU4MGUzLWExODgtNGFiNS05NTdkLWZmNzY0NzQ3NWU2OVwvZGdpMnZuMi02MWM4ODRjMy1mYjVjLTQ4ZWMtYmJkMi01NGRmMDY1MTZmMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yU26YUsibH39iVmi7LbgHoC3PD4qd7b8SvF2FuLNN7k)
+> Never Show Weakness
+
 <h1 align="center">Hi 👋, I'm Abderrahmane Gorram</h1>
 <h3 align="center">P-TECH Student | Back-End Developer | Cyber Security & Embedded Systems Enthusiast</h3>
 
